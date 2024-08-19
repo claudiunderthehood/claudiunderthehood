@@ -37,5 +37,19 @@
 
 
 # 🧑‍💻 About me
-Hey there, i'm an independent developer from Italy. My ambition is to learn as much as i can and experiment whatever crazy idea i get.
+I'm working on my bachelor's degree in computer science and aim to work in the Bioinformatics field while having fun with side projects i find appealing.  
 
+<details open> 
+  <summary><h2>📘 My Github Projects</h2></summary>
+
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/claudiunderthehood/CreditCardFraudAnalysis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=claudiunderthehood&repo=CreditCardFraudAnalysis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CreditCardFraudAnalysis"></a>
+    <a href="https://github.com/rogueEdit/pyRogue"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rogueEdit&repo=pyRogue&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="pyRogue"></a>
+    <a href="https://github.com/claudiunderthehood/gaze-controller"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=claudiunderthehood&repo=gaze-controller&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="gaze-controller"></a>
+    <a href="https://github.com/claudiunderthehood/telegram_booking_bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=claudiunderthehood&repo=telegram_booking_bot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="telegram_booking_bot"></a>
+  </p>
+
+  <a href="https://github.com/claudiunderthehood?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
