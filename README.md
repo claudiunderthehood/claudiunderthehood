@@ -61,7 +61,9 @@
 
 
 # 🧑‍💻 About me
-I'm working on my bachelor's degree in computer science and aim to work in the Bioinformatics field while having fun with side projects i find appealing.  
+I'm working on my bachelor's degree in computer science and aim to work in the Bioinformatics field while having fun with side projects i find appealing.
+[📄 View My Resume](https://github.com/claudiunderthehood/cv/raw/main/cv.pdf)
+ 
 
 <details open> 
   <summary><h2>📘 My Github Projects</h2></summary>
