@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/claudiunderthehood">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Claudio+Giusti;Student+%7C+Software+Developer;AI+Enthusiast+%7C+Bots" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Claudio+Giusti;Student+%7C+Software+Engineer;AI+Enthusiast+%7C+Bots" alt="Typing SVG" />
 </a>
 <br/>
 
