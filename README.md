@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/claudio-giusti/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
-<a href="mailto:claudiogiusti07@gmail.com">
+<a href="mailto:claudio.giusti@studium.unict.it">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
