@@ -61,7 +61,7 @@
 
 
 # 🧑‍💻 About me
-I'm currently pursuing a bachelor's degree in computer science and aspire to work in the fields of medical imaging and forensics, while also enjoying side projects that I find interesting.
+Master Degree Student researching in the Foresensic field as a side gig.
 
 [📄 View My Resume](https://github.com/claudiunderthehood/cv/raw/main/cv.pdf)
  
